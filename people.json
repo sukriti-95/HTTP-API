@@ -1,0 +1,29 @@
+[
+	{
+		"name": "chaitanya singh",
+		"age": "27",
+		"gender": "male"
+	},
+
+	{
+		"name": "steve",
+		"age": "29",
+		"gender": "male"
+	},
+
+	{
+		"name": "Peter",
+		"age": "30",
+		"gender": "male"
+
+	},
+
+	{
+		"name": "Sophie",
+		"age": "25",
+		"gender": "female"
+
+
+	}
+
+]
